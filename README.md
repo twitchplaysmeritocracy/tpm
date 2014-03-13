@@ -7,7 +7,7 @@ moar commits == moar merits!!!
 
 anyone can join this org and commit.
 
-hopefully there will be an api soon to auto-add you to this org, but i haven't played with github apis yet.
+hopefully there will be an api soon to auto-add you to this org, as i've figured out the api now.
 
 for now comment here: https://github.com/twitchplaysmeritocracy/tpm/issues/1
 
