@@ -7,9 +7,7 @@ moar commits == moar merits!!!
 
 anyone can join this org and commit.
 
-hopefully there will be an api soon to auto-add you to this org, as i've figured out the api now.
-
-for now comment here: https://github.com/twitchplaysmeritocracy/tpm/issues/1
+go here to automatically add yourself! http://tpm.laurelmail.net
 
 inspired by:
 * http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
