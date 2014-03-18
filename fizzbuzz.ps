@@ -1,0 +1,32 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox:  0 0 612 792
+
+/Helvetica findfont 12 scalefont setfont
+
+/y 760 def
+/x 20 def
+
+x y moveto
+
+1 1 100 {
+  /i exch def
+  i 3 mod 0 ne i 5 mod 0 ne and {
+    i 3 string cvs show
+  } {
+    i 3 mod 0 eq i 5 mod 0 eq and {
+      (fizzbuzz) show
+    } {
+      i 3 mod 0 eq {
+        (fizz) show
+      } {
+        (buzz) show
+      } ifelse
+    } ifelse
+  } ifelse
+  /y y 12 sub def
+  i 50 eq {
+    /y 760 def
+    /x 100 def
+  } if
+  x y moveto
+} for
